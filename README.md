@@ -72,7 +72,6 @@ streamlit run symptom_chatbot.py
 ## 📸 Demo
 [▶️ Click to watch the demo](https://github.com/dsany94/symptom-chatbot/blob/main/symptom_checker_demo.mp4)
 
-
 ---
 
 🤖 Future Improvements
